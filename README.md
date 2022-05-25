@@ -8,3 +8,5 @@ Typically the task of image recognition involves the creation of a neural networ
 Using pertained model Resnet50 for Image recognition ResNet-50 is a convolutional neural network that is 50 layers deep. load a pretrained version of the network trained on more than a million images from the ImageNet database . The pretrained network can classify images into 1000 object categories, such as keyboard, mouse, pencil, and many animals.
 Resnet50 architecture:
 <img width="477" alt="image" src="https://user-images.githubusercontent.com/78662755/170348558-4caf8cfa-296c-40dd-a160-d6a43a4d00d6.png">
+# Experiments and Results:
+All in Docx
